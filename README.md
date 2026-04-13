@@ -14,14 +14,14 @@
   - Wanderlust – Airbnb-style rental app
   - FuelPro – Fuel management system (Infosys internship)
   - FranchiseConnect – Platform for franchise investment
-- 💬 Ask me about: Java, Spring Boot, REST APIs, React, SQL, Git
+- 💬 Ask me about:Python,Ml,Deep Learning, Java, SQL, REST APIs, React, Git
 
 ---
 
 ### 🚀 Tech Stack
 
 #### 💡 Languages & Tools
-![python]
+![Python Logo](https://python.org)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
