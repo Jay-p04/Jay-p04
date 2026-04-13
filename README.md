@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full Stack Developer | Computer Engineering Student | Problem Solver </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2CB&size=22&center=true&vCenter=true&lines=Final+year+CE+Student;Python+ML+Eng;Pandas+%7C+Numpy+%7C+Scikitlearn+%7C+Pytorch;Always+learning+new+tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2CB&size=22&center=true&vCenter=true&lines=Final+year+CE+Student;+%7C+%7C+Python+ML+Eng;Pandas+%7C+Numpy+%7C+Scikitlearn+%7C+Pytorch;Always+learning+new+tech" />
 </p>
 
 ---
